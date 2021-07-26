@@ -1,0 +1,1 @@
+@include('layouts.exams.Rock_Mechanics.مقاومت بار نقطه ای')

@@ -1,0 +1,1 @@
+@include('layouts.exams.Soil_Mechanics.CBR')
