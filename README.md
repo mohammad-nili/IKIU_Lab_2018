@@ -2,6 +2,10 @@
 
 [labs.ikiu.ac.ir/examination/](http://labs.ikiu.ac.ir/examination/)
 
+# Features :
+- Mellat Payment gateway <img src="https://way2pay.ir/wp-content/uploads/Behpardakht-Mellat-Logo-PNG-Way2pay-99-05-26.png" width="50">
+- upper than 90 responsive Experiment's Form
+- Flexible managment system for boss_lab & boss_uni to monitor whole process
 
 # Users Type : 
 <span>
@@ -40,9 +44,3 @@ The faculty Manager of Customer must check payment id & customer's id [certify F
 after successful certification the Expert sent result of Experiment + receipt to Customer
 
 ![lab_7](https://user-images.githubusercontent.com/74482108/126952956-b0f01a4e-22d9-40bb-bfc9-6cccae89e3ed.png)
-
-
-# Features :
-- Mellat Payment gateway <img src="https://way2pay.ir/wp-content/uploads/Behpardakht-Mellat-Logo-PNG-Way2pay-99-05-26.png" width="50">
-- upper than 90 responsive Experiment's Form
-- Flexible managment system for boss_lab & boss_uni to monitor whole process
