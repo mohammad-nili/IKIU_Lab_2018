@@ -21,7 +21,7 @@
 - reception : ( ADD_EXAM , PAYMENT)
 
 # Requests Type : 
-## 1- outer application [ online ]
+## 1- outer application [ online payment ]
 At first Customer plea an experiment form from website
 This plea automatically sent to Expert & after his/her confirmation redirected to Reception
 A payment Id Automatically generated for customer's plea & Reception must check payment id & customer's id
@@ -29,7 +29,7 @@ and send bill to the Customer by the plea's parameters ; after successful paymen
 
 ![lab_0](https://user-images.githubusercontent.com/74482108/126952806-9038f10f-810f-47c4-9d0e-a01fb9cdb156.png)
 
-## 2- outer application [ offline ]
+## 2- outer application [ offline payment ]
 ![lab_8](https://user-images.githubusercontent.com/74482108/126952963-0dc503f6-120f-4d9c-b9a4-efc26f057739.png)
 
 ## 3- inner application [local students]
