@@ -31,10 +31,10 @@ This plea automatically sent to Expert & after his/her confirmation redirected t
 A payment Id Automatically generated for customer's plea & Reception must check payment id & customer's id
 and send bill to the Customer by the plea's parameters ; after successful payment the Expert sent result of Experiment + receipt to Customer
 
-![lab_0](https://user-images.githubusercontent.com/74482108/126952806-9038f10f-810f-47c4-9d0e-a01fb9cdb156.png)
+![lab_0](https://user-images.githubusercontent.com/74482108/127733870-c6affaa4-5788-4c74-8eea-2347c966aee5.png)
 
 ## 2- outer application [ offline payment ]
-![lab_8](https://user-images.githubusercontent.com/74482108/126952963-0dc503f6-120f-4d9c-b9a4-efc26f057739.png)
+![lab_8](https://user-images.githubusercontent.com/74482108/127733875-62924908-c0ae-4740-9e9f-37fa6739d5b5.png)
 
 ## 3- inner application [local students]
 At first Customer plea an experiment form from website
@@ -43,4 +43,4 @@ A payment Id Automatically generated for customer's plea
 The faculty Manager of Customer must check payment id & customer's id [certify Free bill]
 after successful certification the Expert sent result of Experiment + receipt to Customer
 
-![lab_7](https://user-images.githubusercontent.com/74482108/126952956-b0f01a4e-22d9-40bb-bfc9-6cccae89e3ed.png)
+![lab_7](https://user-images.githubusercontent.com/74482108/127733871-16610b5b-7167-415d-b424-85d4a7315414.png)
